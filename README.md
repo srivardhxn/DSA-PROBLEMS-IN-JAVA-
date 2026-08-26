@@ -8,5 +8,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/srivardhxn/DSA-PROBLEMS-IN-JAVA-/tree/master/0455-assign-cookies) |
 | [0876-middle-of-the-linked-list](https://github.com/srivardhxn/DSA-PROBLEMS-IN-JAVA-/tree/master/0876-middle-of-the-linked-list) |
+## Array
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/srivardhxn/DSA-PROBLEMS-IN-JAVA-/tree/master/0455-assign-cookies) |
+## Greedy
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/srivardhxn/DSA-PROBLEMS-IN-JAVA-/tree/master/0455-assign-cookies) |
+## Sorting
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/srivardhxn/DSA-PROBLEMS-IN-JAVA-/tree/master/0455-assign-cookies) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/srivardhxn/DSA-PROBLEMS-IN-JAVA-/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->

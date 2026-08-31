@@ -14,10 +14,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/srivardhxn/DSA-PROBLEMS-IN-JAVA-/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/srivardhxn/DSA-PROBLEMS-IN-JAVA-/tree/master/0860-lemonade-change) |
 ## Greedy
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/srivardhxn/DSA-PROBLEMS-IN-JAVA-/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/srivardhxn/DSA-PROBLEMS-IN-JAVA-/tree/master/0860-lemonade-change) |
 ## Sorting
 |  |
 | ------- |

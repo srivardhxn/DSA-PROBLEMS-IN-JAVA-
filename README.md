@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/srivardhxn/DSA-PROBLEMS-IN-JAVA-/tree/master/0455-assign-cookies) |
 | [0643-maximum-average-subarray-i](https://github.com/srivardhxn/DSA-PROBLEMS-IN-JAVA-/tree/master/0643-maximum-average-subarray-i) |
 | [0860-lemonade-change](https://github.com/srivardhxn/DSA-PROBLEMS-IN-JAVA-/tree/master/0860-lemonade-change) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/srivardhxn/DSA-PROBLEMS-IN-JAVA-/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Greedy
 |  |
 | ------- |
@@ -33,4 +34,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/srivardhxn/DSA-PROBLEMS-IN-JAVA-/tree/master/0643-maximum-average-subarray-i) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/srivardhxn/DSA-PROBLEMS-IN-JAVA-/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+## Hash Table
+|  |
+| ------- |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/srivardhxn/DSA-PROBLEMS-IN-JAVA-/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 <!---LeetCode Topics End-->

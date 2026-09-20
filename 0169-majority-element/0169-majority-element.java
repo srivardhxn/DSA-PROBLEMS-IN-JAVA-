@@ -1,22 +1,21 @@
-import java.util.HashMap;
-
-public class Solution {
+class Solution { 
     public int majorityElement(int[] nums) {
-        HashMap<Integer, Integer> counts = new HashMap<>();
-        int majorityThreshold = nums.length / 2;
-
+        int candidate = 0;
+        int count = 0;
+        
+        // Step 1: Find the majority candidate
         for (int num : nums) {
-            // Update the count for the current number
-            counts.put(num, counts.getOrDefault(num, 0) + 1);
+            if (count == 0) {
+                candidate = num;
+            }
             
-            // Check if this number is now the majority element
-            if (counts.get(num) > majorityThreshold) {
-                return num;
+            if (num == candidate) {
+                count++;
+            } else {
+                count--;
             }
         }
         
-        // The problem guarantees a majority element always exists,
-        // so this line is technically unreachable.
-        return -1; 
-    }
+        return candidate;
+    } 
 }
